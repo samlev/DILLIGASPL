@@ -1,9 +1,9 @@
 DILLIGASPL
 ==========
 
-Do I Look Like I Give A Shit Public Licence is a licence for abandoned projects that you really don't give a shit about.
+Do I Look Like I Give A Shit Public License is a license for abandoned projects that you really don't give a shit about.
 
-It's similar to the [Do What The Fuck You Want Public Licence](http://www.wtfpl.net), but a little more explicit about the fact that I don't give a shit.
+It's similar to the [Do What The Fuck You Want Public License](http://www.wtfpl.net), but a little more explicit about the fact that I don't give a shit.
 
 It's released under itself.
 
